@@ -80,7 +80,7 @@ end
 ## menu
 * [to header1](#header1)
 * [to header2](#header2)
-* [to test](#ttt)
+* [to test](#テスト　です)
 
 <!-- some long code -->
 
