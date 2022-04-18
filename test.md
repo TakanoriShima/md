@@ -84,7 +84,7 @@ end
 <!-- some long code -->
 
 [return to menu](#menu)
-### header1 {#header1}
+### header1
 ### header2
 
 ***
