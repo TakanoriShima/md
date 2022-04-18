@@ -80,14 +80,14 @@ end
 ## menu
 * [to header1](#header1)
 * [to header2](#header2)
-* [to test](#test)
+* [to test](#ttt)
 
 <!-- some long code -->
 
 [return to menu](#menu)
 ### header1
 ### header2
-### テスト　です {#test}
+### テスト　です {#ttt}
 
 ***
 <h2><a name="user-content-menu" href="#menu">menu</a></h2>
